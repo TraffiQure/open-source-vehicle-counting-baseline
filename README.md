@@ -67,7 +67,7 @@ The environment requires Python 3.11. CPU and Apple Silicon (MPS) are supported 
 
 ## Pre-trained model weights
 
-Pre-trained weights are released as GitHub Release attachments rather than committed to git. From the **v0.1-phase1-station85** release (https://github.com/TraffiQure/open-source-vehicle-counting-baseline/releases/tag/v0.1-phase1-station85), download:
+Pre-trained weights are released as GitHub Release attachments rather than committed to git. From the **v0.1** release (https://github.com/TraffiQure/open-source-vehicle-counting-baseline/releases/tag/v0.1), download:
 
 - `yolo11s-miotcd-v2-epoch3.pt` — stage-1 detector (≈54 MB)
 - `axle-articulated-v5_fixed.pt` — stage-2 articulated-truck axle classifier (≈16 MB)

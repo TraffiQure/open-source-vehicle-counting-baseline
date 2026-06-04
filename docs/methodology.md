@@ -96,4 +96,4 @@ CollectionTime, Direction, Lane, Class, Speed, videoFileNum, FrameNum, ImageFile
 
 ## Repository version
 
-The released configuration is tagged **v0.1-phase1-station85** and matches the configuration used in the accompanying evaluation report.
+The released configuration is tagged **v0.1** and matches the configuration used in the accompanying evaluation report.
