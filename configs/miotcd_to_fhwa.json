@@ -1,0 +1,15 @@
+{
+  "_comment": "MIO-TCD class ID (0-10, see configs/miotcd.yaml) -> FHWA class or sub-classifier routing. Integer values are final FHWA classes (1-13). 'drop' means exclude from counts (non-vehicle). 'axle_articulated' routes to stage-2 axle sub-classifier for Classes 8/9/10. 'axle_single_unit' routes to stage-2 axle sub-classifier for Classes 5/6/7.",
+  "_fhwa_legend": {"1": "motorcycle", "2": "passenger car", "3": "pickup/van (2-axle 4-tire)", "4": "bus", "5": "single-unit 2-axle 6-tire", "6": "single-unit 3-axle", "7": "single-unit 4+ axle", "8": "articulated 3-4 axle", "9": "articulated 5-axle", "10": "articulated 6+ axle"},
+  "0": "axle_articulated",
+  "1": "drop",
+  "2": 4,
+  "3": 2,
+  "4": 1,
+  "5": "drop",
+  "6": "drop",
+  "7": "drop",
+  "8": 3,
+  "9": "axle_single_unit",
+  "10": 3
+}

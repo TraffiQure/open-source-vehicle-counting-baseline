@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Project-specific (TraffiQure baseline) ---
+
+# Model checkpoints — released as GitHub Release attachments, not committed
+*.pt
+*.pth
+*.onnx
+runs/
+
+# Local data / outputs
+outputs/
+data/
+*.avi
+*.mp4
+*.mov
+
+# macOS
+.DS_Store

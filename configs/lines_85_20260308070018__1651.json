@@ -1,0 +1,78 @@
+{
+  "video": "85_20260308070018__1651.avi",
+  "frame_size": [
+    640,
+    454
+  ],
+  "reference_frame_index": 0,
+  "lines": [
+    {
+      "name": "West_01",
+      "direction": "West",
+      "lane": 1,
+      "p1": [
+        304,
+        61
+      ],
+      "p2": [
+        304,
+        94
+      ],
+      "arrival_side_hint": [
+        278,
+        78
+      ]
+    },
+    {
+      "name": "West_02",
+      "direction": "West",
+      "lane": 2,
+      "p1": [
+        304,
+        104
+      ],
+      "p2": [
+        304,
+        164
+      ],
+      "arrival_side_hint": [
+        280,
+        131
+      ]
+    },
+    {
+      "name": "East_02",
+      "direction": "East",
+      "lane": 2,
+      "p1": [
+        109,
+        211
+      ],
+      "p2": [
+        111,
+        251
+      ],
+      "arrival_side_hint": [
+        133,
+        230
+      ]
+    },
+    {
+      "name": "East_01",
+      "direction": "East",
+      "lane": 1,
+      "p1": [
+        112,
+        261
+      ],
+      "p2": [
+        114,
+        352
+      ],
+      "arrival_side_hint": [
+        141,
+        305
+      ]
+    }
+  ]
+}
