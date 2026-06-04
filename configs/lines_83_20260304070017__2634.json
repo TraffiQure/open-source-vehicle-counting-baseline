@@ -1,0 +1,78 @@
+{
+  "video": "83_20260304070017__2634.avi",
+  "frame_size": [
+    640,
+    454
+  ],
+  "reference_frame_index": 0,
+  "lines": [
+    {
+      "name": "North_01",
+      "direction": "North",
+      "lane": 1,
+      "p1": [
+        311,
+        106
+      ],
+      "p2": [
+        312,
+        131
+      ],
+      "arrival_side_hint": [
+        296,
+        120
+      ]
+    },
+    {
+      "name": "North_02",
+      "direction": "North",
+      "lane": 2,
+      "p1": [
+        312,
+        151
+      ],
+      "p2": [
+        312,
+        183
+      ],
+      "arrival_side_hint": [
+        294,
+        166
+      ]
+    },
+    {
+      "name": "South_02",
+      "direction": "South",
+      "lane": 2,
+      "p1": [
+        313,
+        219
+      ],
+      "p2": [
+        314,
+        244
+      ],
+      "arrival_side_hint": [
+        334,
+        233
+      ]
+    },
+    {
+      "name": "South_01",
+      "direction": "South",
+      "lane": 1,
+      "p1": [
+        315,
+        313
+      ],
+      "p2": [
+        315,
+        359
+      ],
+      "arrival_side_hint": [
+        339,
+        339
+      ]
+    }
+  ]
+}
